@@ -1,4 +1,3 @@
-# Nautilus Admin - Extension for Nautilus to do administrative operations
 # Copyright (C) 2024 Janik Haitz
 #
 # This program is free software: you can redistribute it and/or modify
@@ -14,8 +13,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-import json
-import subprocess
 from urllib.parse import unquote, urlparse
 from pathlib import Path
 
